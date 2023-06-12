@@ -1,0 +1,21 @@
+.list-form {
+    margin-bottom: 2.5rem;
+}
+
+.input-form ,
+.button-form {
+    padding: .5rem;
+    margin: 1rem;
+}
+.input-form {
+    width: 250px;
+}
+
+.button-form {
+    width: 50px;
+    color: #ffff;
+    background: linear-gradient( to left ,rgb(59, 160, 207) ,rgb(129, 69, 151));
+    border: none;
+    border-radius: .2rem;
+    font-weight: bold;
+}
